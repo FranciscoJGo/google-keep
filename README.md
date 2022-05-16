@@ -1,4 +1,4 @@
-# title(){return this.options.title||this.options.name}
+This is an example of Google Kepp! I did using the videos of https://scrimba.com/learn/javascript/module-intro-google-keep-clone-cWKzPysa The page is found at: https://franciscojgo.github.io/google-keep/
 
 ## Supporting Scrimba
 
